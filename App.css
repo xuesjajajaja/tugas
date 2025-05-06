@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  position: relative;
+}
+
+.section1 {
+  background: linear-gradient(135deg, #ff6b6b, #f7d9a0);
+}
+
+.section2 {
+  background: linear-gradient(135deg, #6bc6ff, #ff6b6b);
+}
+
+.section3 {
+  background: linear-gradient(135deg, #ff6b6b, #6bc6ff);
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+}
